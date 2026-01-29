@@ -79,12 +79,6 @@ All three scenarios correctly achieved zero precision and recall, indicating tha
 
 ## Evidence of Grounding
 
-### Example RAG Answer (Abstention)
-```
-"I do not have sufficient evidence to determine whether this project qualifies 
-for carbon credits. The retrieved documents discuss general land-use and forest 
-management methodologies but do not contain eligibility criteria specific to this 
-project or jurisdiction."
 
 Citations:
 - [VM0042_Methodology-for-Improved-Agricultural-Land-Management_v1.0.txt::c94]
